@@ -1,4 +1,4 @@
-# GTA Vice City — HTML5 Port (DOS Zone)
+# GTA Vice City — HTML5 Port
 
 # Port made by the DOS.Zone team: [dos.zone/reVCDOS](https://dos.zone/revcdos)
 # Official implementation: [GitHub](https://github.com/Carter54git/revcdos) 
@@ -108,7 +108,7 @@ By default the `index.php` and `.htaccess` will get the job done.
 **Examples:**
 ```bash
 # Start on custom port
-python server.py --port 3000
+python server.py --port 8000
 
 # Enable local saves
 python server.py --custom_saves
@@ -268,17 +268,11 @@ MIT. Do what you want (but credit the port authors and me). Not affiliated with 
 
 **Authors:** DOS Zone ([@specialist003](https://github.com/okhmanyuk-ev), [@caiiiycuk](https://www.youtube.com/caiiiycuk), [@SerGen](https://t.me/ser_var))
 
-**Deobfuscated by**: [@Lolendor](https://github.com/Lolendor)
+**Deobfuscated by**: [@Lolendor](https://github.com/Lolendor) [@kavediyaharsh](https://github.com/kavediyaharsh)
 
 **Russian translation:** [GamesVoice](https://www.gamesvoice.ru/)
 
 **Added by the community:**
 * PHP Support by [Rohamgames](https://github.com/Rohamgames)
 
-## Support [me](https://github.com/Lolendor)
-
-If you find this project useful:
-
-- **TON / USDT (TON)**  `UQAyBchGEKi9NnNQ3AKMQMuO-SGEhMIAKFAbkwwrsiOPj9Gy`
-- **ETH / USDT (ERC-20)** `0x69Ec02715cF65538Bb03725F03Bd4c85D33F8AC0`
-- **TRX / USDT (TRC-20)** `THgNWT9MGW52tF8qFHbAWN25UR6WTeLDMY`
+## Support [me](https://github.com/kavediyaharsh)
