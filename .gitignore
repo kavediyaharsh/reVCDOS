@@ -4,8 +4,6 @@ __pycache__/
 
 .DS_Store
 
-vcbr/
-vcsky/
 saves/
 unpacked/
 *.bin
